@@ -1,4 +1,4 @@
-#BirthDay Server & Client
+# BirthDay Server & Client
 ## Install:
 To install, simply run npm install in both the server and client sub-directories.
 
